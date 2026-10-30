@@ -1,0 +1,11 @@
+allowBuilds:
+  esbuild: set this to true or false
+minimumReleaseAgeExclude:
+  - '@ai-sdk/anthropic@4.0.92'
+  - '@ai-sdk/gateway@4.0.130'
+  - '@ai-sdk/google@4.0.108'
+  - '@ai-sdk/mcp@2.0.87'
+  - '@ai-sdk/provider-utils@5.0.71'
+  - '@ai-sdk/react@4.0.161'
+  - ai@7.0.157
+  - lucide-react@1.64.0
